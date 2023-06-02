@@ -1,7 +1,3 @@
-// Crash course on TypeScript, modified with some of my own variables
-// Udemy course: TypeScript for Absolute Beginners by Sean Bradley
-// https://www.udemy.com/share/102HYc3@0ydzmdJk7-R-pBQrdT3XZtQEyMLS3ZXzGMtlm8mgbsQkc7uRsJpQaBpu4KUWoTSH/
-
 interface Car {
   make: string,
   model: string,
